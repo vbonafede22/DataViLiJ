@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This XML file allows us to easily customize the visual aesthetics of the user interface. Note that this properties
+file is only for the standard high-level controls for an application, so it does not include properties meant for any
+functionality within the main workspace. -->
+<properties>
+    <property_list>
+        <!-- RESOURCE FILES AND FOLDERS -->
+        <property name="DATA_RESOURCE_PATH" value="data"/>
+
+        <!-- USER INTERFACE ICON FILES -->
+        <property name="SCREENSHOT_ICON" value="screenshot.png"/>
+        <property name="RUN_ICON" value="runIcon.png"/>
+        <property name="SETTINGS_ICON" value="settingsIcon.png"/>
+
+        <!-- TOOLTIPS FOR BUTTONS -->
+        <property name="SCREENSHOT_TOOLTIP" value="Screenshot"/> <!-- will print current view of image to a file -->
+
+        <!-- WARNING MESSAGES -->
+        <property name="EXIT_WHILE_RUNNING_WARNING"
+                  value="An algorithm is running. If you exit now, all unsaved changes will be lost. Are you sure?"/>
+
+        <!-- ERROR MESSAGES -->
+        <property name="RESOURCE_SUBDIR_NOT_FOUND" value="Directory not found under resources."/>
+
+        <!-- APPLICATION-SPECIFIC MESSAGE TITLES -->
+        <property name="SAVE_UNSAVED_WORK_TITLE" value="Save Current Work"/>
+
+        <!-- APPLICATION-SPECIFIC MESSAGES -->
+        <property name="SAVE_UNSAVED_WORK" value="Would you like to save current work?"/>
+
+        <!-- APPLICATION-SPECIFIC PARAMETERS -->
+        <property name="DATA_FILE_EXT" value=".tsd"/>
+        <property name="DATA_FILE_EXT_DESC" value="Tab-Separated Data File"/>
+        <property name="TEXT_AREA" value="text area"/>
+        <property name="SPECIFIED_FILE" value=" specified file"/>
+        <property name="LEFT_PANE_TITLE" value="Data File"/>
+        <property name="LEFT_PANE_TITLEFONT" value="SansSerif"/>
+        <property name="LEFT_PANE_TITLESIZE" value="18"/>
+        <property name="CHART_TITLE" value="Data Visualization"/>
+        <property name="DISPLAY_BUTTON_TEXT" value="Display Data"/>
+        
+        <!-- MY OWN -->
+        <property name="READ_ONLY" value="Read-Only"/>
+        <property name="ERROR_LINE" value=", error occured at line "/>
+        <property name="ERROR" value="Error"/>
+        <property name="UNABLE_TO_SAVE" value="Unable to save becuase of an error"/>
+        <property name="INSTANCES_WITH" value=" instances, with "/>
+        <property name="LABELS_LOADED" value=" labels loaded from "/>
+        <property name="LABELS_ARE" value=". the labels are: "/>
+        <property name="EDIT_DONE" value="Edit/Done"/>
+        <property name="ALGO_TYPE" value="Algorithm Type"/>
+        <property name="CLASSIFICATION" value="Classification"/>
+        <property name="CLUSTERING" value="Clustering"/>
+        <property name="CLASS_ALGO" value="Classification Algorithm"/>
+        <property name="CLASS_ALGO_1" value="Classification Algorithm 1"/>
+        <property name="CLUST_ALGO" value="Clustering Algorithm"/>
+        <property name="CLUST_ALGO_1" value="Clustering Algorithm 1"/>
+        <property name="CLUST_ALGO_1_CLASS" value="clustering.RandomClusterer"/>
+        <property name="RUN" value="Run"/>
+        <property name="INSTANCES" value=" instances"/>
+        <property name="LABELS_ARE1" value=" labels, the labels are: "/>
+        <property name="ALGO_RUN_CONFIG" value="Algorithm Run Configuration"/>
+        <property name="MAX_ITERATIONS" value="Max. Iterations: "/>
+        <property name="UPDATE" value="Update Interval:"/>
+        <property name="CONT_RUN" value="Continous run:"/>
+        <property name="ONE" value="1"/>
+        <property name="CLOSE" value="Close"/>
+        <property name="NUM_CLUSTERS" value="Number of clusters:"/>
+       
+        
+    </property_list>
+    <property_options_list/>
+</properties>

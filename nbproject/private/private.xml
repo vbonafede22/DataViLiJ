@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>data-vilij/resources/gui/newCascadeStyleSheet1.css</url>
+            <bookmark id="1">
+                <name/>
+                <line>37</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/vinbonafede1/NetBeansProjects/vbonafede/hw1/data-vilij/src/clustering/RandomClusterer.java</file>
+            <file>file:/Users/vinbonafede1/NetBeansProjects/vbonafede/hw1/data-vilij/src/dataprocessors/TSDProcessor.java</file>
+            <file>file:/Users/vinbonafede1/NetBeansProjects/vbonafede/hw1/data-vilij/src/actions/AppActions.java</file>
+            <file>file:/Users/vinbonafede1/NetBeansProjects/vbonafede/hw1/data-vilij/src/classification/RandomClassifier.java</file>
+            <file>file:/Users/vinbonafede1/NetBeansProjects/vbonafede/hw1/data-vilij/src/ui/AppUI.java</file>
+            <file>file:/Users/vinbonafede1/NetBeansProjects/vbonafede/hw1/data-vilij/src/clustering/KMeansClusterer.java</file>
+        </group>
+    </open-files>
+</project-private>
